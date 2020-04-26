@@ -1,3 +1,5 @@
+package easy;
+
 class Average {
     public static void main(String[] args) {
 

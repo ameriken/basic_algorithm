@@ -1,3 +1,5 @@
+package easy;
+
 class Sum {
     public static void main(String[] args) {
 

@@ -1,4 +1,6 @@
-class BinaarySearch {
+package search;
+
+class BinarySearch {
     public static void main(String[] args) {
 
         int a[] = {1,2,4,5,10};

@@ -1,3 +1,5 @@
+package search;
+
 class LineSearch {
     public static void main(String[] args) {
 
